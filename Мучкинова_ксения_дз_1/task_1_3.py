@@ -10,7 +10,5 @@ def transform_sring(number: int) -> str:
     elif number % 10 <=9:
         return str(number) + ' процентов'
 
-
-
 for n in range(1, 101):
     print(transform_sring(n))
