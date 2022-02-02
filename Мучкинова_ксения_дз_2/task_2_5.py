@@ -53,4 +53,3 @@ def check_five_max_elements(list_in: list) -> list:
 
 result_4 = check_five_max_elements(my_list)
 print(result_4)
-
